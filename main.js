@@ -1,5 +1,6 @@
 window.onload = function () {
     var images = [
+        'image2.jpeg',
         'image3.jpeg',
     ];
 
